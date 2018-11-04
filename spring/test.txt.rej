@@ -1,0 +1,4 @@
+diff a/spring/test.txt b/spring/test.txt	(rejected hunks)
+@@ -0,0 +1 @@
++This is a test file.
+\ No newline at end of file
